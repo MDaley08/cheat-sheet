@@ -10,4 +10,4 @@
 **git checkout -b [branch name]** # changes to specified branch, if -b option is added it will created the specified branch and switch to it<br/ >
 # Linux Commands
 **rm [OPTIONS] FILE** #removes targeted file(s)<br />
- 
+**echo [string]** # displays lines of text or stings that are passed as arguments<br /> 
