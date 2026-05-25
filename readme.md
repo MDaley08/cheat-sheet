@@ -11,4 +11,6 @@
 # Linux Commands
 **rm [OPTIONS] FILE** #removes targeted file(s)<br />
 **echo [string]** # displays lines of text or stings that are passed as arguments<br />
-**cat file_name** # commonly used to display contents of file<br /> 
+**cat file_name** # commonly used to display contents of file<br />
+**mv [OPTIONS] Source Destination** # used to move or rename files and directories<br />
+ 
