@@ -6,3 +6,5 @@
 **git init** # initialize an existing directory as a Git repository<br />
 **git remote add [alias] [url]** # add a git url as an alias(generally how we'll link a local repo to a remote one)<br />
 **git log -p** # show commit history of current active branch -p argument will show changes in docs between commits<br />
+**git diff -- [file]** # diff of what is changed but not staged, -- [file] targets a specific file<br />
+
