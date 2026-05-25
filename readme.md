@@ -3,4 +3,4 @@
 **git status** # shows modified files in working direcotry, staged for next commit<br />
 **git reset [file]**  # unstage a file while retaing the changes in working dir<br />
 **git branch [branch-name]** # lists branches with * beside working branch, if we include a branch name we instead create a new brenach at current commit <br />
-**git init ** # initialize an existing directory as a Git repository
+**git init** # initialize an existing directory as a Git repository
